@@ -2,11 +2,13 @@
 This repository includes the ui and earth objects for user to go between tasks and important aspects of the game. 
 
 Includes:
+
 Earth prefab, animations
 Pop Up prefab
 UI for user to select a task
 
 Current Problem in Unity:
+
 
 All the pop up prefabs spawns as user starts the game. 
  
