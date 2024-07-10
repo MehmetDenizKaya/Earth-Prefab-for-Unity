@@ -10,7 +10,9 @@ UI for user to select a task
  Current Problem in Unity:
 
  All the pop up prefabs spawns as user starts the game. 
+ 
  Camera sometimes doesn't work when user clicks on one of the active task pop up prefabs.
+ 
  UI doesn't set up properly for user to see and interact with. (It will be changed)
 
 
