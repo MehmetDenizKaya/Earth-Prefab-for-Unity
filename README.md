@@ -1,23 +1,4 @@
 # Main-Menu-Earth-
-This repository includes the ui and earth objects for user to go between tasks and important aspects of the game. 
-
------Includes-----
-
-Earth prefab, animations
-Pop Up prefab
-UI for user to select a task
-
-
-------Current Problem in Unity------
-
-
-All the pop up prefabs spawns as user starts the game. 
- 
-Camera sometimes doesn't work when user clicks on one of the active task pop up prefabs.
- 
-UI doesn't set up properly for user to see and interact with. (It will be changed)
-
-
-This product is not final. It only includes the structure of the main aspects of the main menu and start of the game.
-
+This prefab includes Earth prefab with its own spinning animation for Unity. User can spin and interact with Earth itself.
+There are several pop up prefabs that user can interact with. By clicking on them camera move towards pop up objects and UI shows up for user to select any task that is desired.
 
